@@ -1,0 +1,8 @@
+{
+    "Author": "Meishu",
+    "Name": "Submissive and Mersible",
+    "InternalName": "SubmissiveAndMersible",
+    "Punchline": "Automatically handles repairing and redeploying submersibles.",
+    "Description": "Adds a command that will go through each submersible and finalize the voyage, repair all components, and redeploy. This has minimal error handling, so make sure you have enough free inventory slots and stock up on ceruleum tanks and repair materials.",
+    "ApplicableVersion": "any"
+}

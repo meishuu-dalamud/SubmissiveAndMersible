@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubmissiveAndMersible", "SubmissiveAndMersible\SubmissiveAndMersible.csproj", "{13C812E9-0D42-4B95-8646-40EEBF30636F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickLib", "ClickLib\ClickLib\ClickLib.csproj", "{D9693CCD-CB2E-4F9B-A769-89B1F80E4092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommons", "ECommons\ECommons\ECommons.csproj", "{2019755F-4C20-4BFF-9F6D-2BC0F8E3347A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C812E9-0D42-4B95-8646-40EEBF30636F}.Debug|x64.ActiveCfg = Debug|x64
+		{13C812E9-0D42-4B95-8646-40EEBF30636F}.Debug|x64.Build.0 = Debug|x64
+		{13C812E9-0D42-4B95-8646-40EEBF30636F}.Release|x64.ActiveCfg = Release|x64
+		{13C812E9-0D42-4B95-8646-40EEBF30636F}.Release|x64.Build.0 = Release|x64
+		{D9693CCD-CB2E-4F9B-A769-89B1F80E4092}.Debug|x64.ActiveCfg = Debug|x64
+		{D9693CCD-CB2E-4F9B-A769-89B1F80E4092}.Debug|x64.Build.0 = Debug|x64
+		{D9693CCD-CB2E-4F9B-A769-89B1F80E4092}.Release|x64.ActiveCfg = Release|x64
+		{D9693CCD-CB2E-4F9B-A769-89B1F80E4092}.Release|x64.Build.0 = Release|x64
+		{2019755F-4C20-4BFF-9F6D-2BC0F8E3347A}.Debug|x64.ActiveCfg = Debug|x64
+		{2019755F-4C20-4BFF-9F6D-2BC0F8E3347A}.Debug|x64.Build.0 = Debug|x64
+		{2019755F-4C20-4BFF-9F6D-2BC0F8E3347A}.Release|x64.ActiveCfg = Release|x64
+		{2019755F-4C20-4BFF-9F6D-2BC0F8E3347A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17E85B1-5F60-4440-9F9A-3DDE877E8CDF}
+	EndGlobalSection
+EndGlobal
